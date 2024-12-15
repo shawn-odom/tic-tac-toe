@@ -1,4 +1,4 @@
-const socket = io('https://28d1b37c-5d30-43a0-ad54-be983c9a3584-00-3ak9nkob3bwsz.janeway.replit.dev/'); // Replace with your Replit URL
+const socket = io('https://28d1b37c-5d30-43a0-ad54-be983c9a3584-00-3ak9nkob3bwsz.janeway.replit.dev:5000/'); // Replace with your Replit URL
 
 let board = [
     [' ', ' ', ' '],
